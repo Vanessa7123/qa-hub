@@ -1,0 +1,1009 @@
+{
+  "links": {
+    "BUPTN-2720/CT08": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4746",
+          "status": "Reaberto",
+          "summary": "Impedimento de vínculo de CNPJ duplicado entre os ecossistemas B2B e Seller Center",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2720/CT09": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4663",
+          "status": "PRONTO P/QA",
+          "summary": "Ausência de modal de erro em caso de falha na consulta da API NFE-IO",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2720/CT23": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4632",
+          "status": "Finalizado",
+          "summary": "Autenticação indevida com usuário mockado ao acessar fluxo de cadastro de empresa",
+          "type": "Bug (Experimental)"
+        },
+        {
+          "key": "BUPTN-4831",
+          "status": "Não Iniciado",
+          "summary": "Erro no redirecionamento para tela de validação de empresa ",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2720/CT25": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4821",
+          "status": "Finalizado",
+          "summary": "Exibição indevida de dados cadastrais para CNPJ com CNAE não permitido",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2920/CT01": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4748",
+          "status": "Finalizado",
+          "summary": "Ausência do informativo de pessoa autorizada no topo da tela durante o cadastro",
+          "type": "Bug (Experimental)"
+        },
+        {
+          "key": "BUPTN-4803",
+          "status": "EM TESTE INTEGRADO",
+          "summary": "Ocultação precoce do informativo de \"Carta de Autorização\" ao existir etapa reprovada",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2920/CT05": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        },
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2920/CT06": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        },
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2920/CT07": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        },
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2931/CT15": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4775",
+          "status": "Em andamento",
+          "summary": "Erro 'Canceled' na finalização da verificação de empresa com arquivo de 50MB",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-2931/CT16": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4773",
+          "status": "Finalizado",
+          "summary": "Ajuste no layout desktop em Verificação de Empresa",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3172/CT04": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4793",
+          "status": "Finalizado",
+          "summary": "Modal de conclusão da primeira etapa fechando após 4 segundos",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3172/CT11": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4794",
+          "status": "Reaberto",
+          "summary": "Ajuste no layout desktop da tela de Contrato",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3177/CT29": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4775",
+          "status": "Em andamento",
+          "summary": "Erro 'Canceled' na finalização da verificação de empresa com arquivo de 50MB",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3415/CT03": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4782",
+          "status": "Finalizado",
+          "summary": "Inconsistência na mensagem e layout do banner de aviso",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3415/CT06": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4786",
+          "status": "Reaberto",
+          "summary": "Modal de revisão de etapa exibido múltiplas vezes na mesma sessão de login",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT01": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4816",
+          "status": "PRONTO P/QA",
+          "summary": "Botão de Próximo não aparece desabilitado ao acessar tela com opções de perfil",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT03": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT04": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT05": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT07": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4806",
+          "status": "Finalizado",
+          "summary": "Ausência de desfoque e de botão de renovação após utilização do QR Code",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT09": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4806",
+          "status": "Finalizado",
+          "summary": "Ausência de desfoque e de botão de renovação após utilização do QR Code",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT10": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT13": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3812/CT15": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4805",
+          "status": "Finalizado",
+          "summary": "Atualização automática indevida de QR Code expirado sem interação do usuário",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT01": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4816",
+          "status": "Reaberto",
+          "summary": "Botão de Próximo não aparece desabilitado ao acessar tela com opções de perfil",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT05": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4809",
+          "status": "Em andamento",
+          "summary": "Falha no download do modelo de Carta de Autorização e nomenclatura de arquivo inconsistente",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT07": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT08": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT09": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "Reaberto",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT10": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4805",
+          "status": "Finalizado",
+          "summary": "Atualização automática indevida de QR Code expirado sem interação do usuário",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT11": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4806",
+          "status": "Revisão de pares",
+          "summary": "Ausência de desfoque e de botão de renovação após utilização do QR Code",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT12": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4819",
+          "status": "Finalizado",
+          "summary": "Botão \"Próximo\" permanece habilitado sem anexo obrigatório ao retornar para etapa de Carta de Autorização",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT16": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4805",
+          "status": "Finalizado",
+          "summary": "Atualização automática indevida de QR Code expirado sem interação do usuário",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT17": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4806",
+          "status": "Revisão de pares",
+          "summary": "Ausência de desfoque e de botão de renovação após utilização do QR Code",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT18": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT19": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4825",
+          "status": "Em andamento",
+          "summary": "Tempo de requisição excessivo ao realizar upload de arquivo no limite de 12MB na Carta de Autorização",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT22": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4818",
+          "status": "Finalizado",
+          "summary": "Botão de Próximo se mantém ativo durante processamento de envio de Carta de autorização ",
+          "type": "Bug (Experimental)"
+        },
+        {
+          "key": "BUPTN-4804",
+          "status": "Reaberto",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT23": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4813",
+          "status": "EM TESTE INTEGRADO",
+          "summary": "Ajuste de label e instrução referente ao envio de arquivo",
+          "type": "Bug (Experimental)"
+        },
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT24": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4804",
+          "status": "PRONTO P/QA",
+          "summary": "Falha no redirecionamento do QR Code impede inicialização do SDK FaceTec",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT25": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4805",
+          "status": "Finalizado",
+          "summary": "Atualização automática indevida de QR Code expirado sem interação do usuário",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT26": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4805",
+          "status": "Finalizado",
+          "summary": "Atualização automática indevida de QR Code expirado sem interação do usuário",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-3825/CT27": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4810",
+          "status": "EM TESTE INTEGRADO",
+          "summary": "Erro genérico não retornado em fluxos de envio de arquivo",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT02": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT03": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT04": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT05": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT06": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT07": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4816",
+          "status": "PRONTO P/QA",
+          "summary": "Botão de Próximo não aparece desabilitado ao acessar tela com opções de perfil",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT08": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT09": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT10": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT11": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT12": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT13": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    },
+    "BUPTN-4053/CT14": {
+      "linked_bugs": [
+        {
+          "key": "BUPTN-4824",
+          "status": "Em andamento",
+          "summary": "Redirecionamento indevido para QR Code durante validação facial em dispositivos móveis",
+          "type": "Bug (Experimental)"
+        }
+      ],
+      "related_items": []
+    }
+  },
+  "comments": {
+    "BUPTN-2720/CT09": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T18:56:25.397Z",
+        "id": "moaeys6t",
+        "text": "Cenário será tratado em melhoria futura e será necessário mockar o retorno da API NFE-IO.",
+        "updatedAt": "2026-04-22T22:26:00.594Z"
+      }
+    ],
+    "BUPTN-2920/CT08": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T15:04:37.094Z",
+        "id": "moa6ooh2",
+        "text": "Cenários de notificação serão tratados em melhoria.",
+        "updatedAt": "2026-04-22T15:04:37.094Z"
+      }
+    ],
+    "BUPTN-2920/CT10": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T15:04:39.822Z",
+        "id": "moa6oqku",
+        "text": "Cenários de notificação serão tratados em melhoria.",
+        "updatedAt": "2026-04-22T15:04:39.822Z"
+      }
+    ],
+    "BUPTN-2920/CT11": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T15:05:20.959Z",
+        "id": "moa6pmbj",
+        "text": "Telas serão passíveis de teste em mobile.",
+        "updatedAt": "2026-04-22T15:05:20.959Z"
+      }
+    ],
+    "BUPTN-2931/CT10": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:24:20.919Z",
+        "id": "moa58w53",
+        "text": "Tag será implementada em melhoria, de acordo com alinhamento com PO. Atualmente a mesma deveria ter mensagem mockada no banco.",
+        "updatedAt": "2026-04-22T14:24:20.919Z"
+      }
+    ],
+    "BUPTN-2931/CT11": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:24:26.591Z",
+        "id": "moa590in",
+        "text": "Tag será implementada em melhoria, de acordo com alinhamento com PO. Atualmente a mesma deveria ter mensagem mockada no banco.",
+        "updatedAt": "2026-04-22T14:24:26.591Z"
+      }
+    ],
+    "BUPTN-2931/CT13": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:23:34.086Z",
+        "id": "moa57w06",
+        "text": "Não é possível de reproduzir.",
+        "updatedAt": "2026-04-22T14:23:34.086Z"
+      }
+    ],
+    "BUPTN-2931/CT16": [
+      {
+        "createdAt": "2026-04-22T14:21:15.125Z",
+        "id": "moa54ws5",
+        "text": "Subir evidência",
+        "updatedAt": "2026-04-22T14:21:15.125Z"
+      }
+    ],
+    "BUPTN-2931/CT19": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:23:02.575Z",
+        "id": "moa577ov",
+        "text": "Não é o comportamento do componente.",
+        "updatedAt": "2026-04-22T14:24:48.051Z"
+      }
+    ],
+    "BUPTN-2931/CT23": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:23:19.983Z",
+        "id": "moa57l4f",
+        "text": "Será possível teste em Mobile.",
+        "updatedAt": "2026-04-22T22:30:02.404Z"
+      }
+    ],
+    "BUPTN-3172/CT09": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:45:53.713Z",
+        "id": "moa60lo1",
+        "text": "Não passível de teste, o componente não traduz o processo de upload real, logo nenhum problema nesse processo afetaria o componente de carregamento, apenas o envio.",
+        "updatedAt": "2026-04-22T14:45:53.713Z"
+      }
+    ],
+    "BUPTN-3172/CT11": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T21:09:33.350Z",
+        "id": "moajpzqe",
+        "text": "Cenário passado para ser validado junto a BUPTN-4801 > BUPTN-4794.",
+        "updatedAt": "2026-04-22T21:09:33.350Z"
+      }
+    ],
+    "BUPTN-3172/CT12": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:44:52.504Z",
+        "id": "moa5zafs",
+        "text": "Contrato é padrão pra todas as empresas, não contém dados específicos para cada CNPJ.",
+        "updatedAt": "2026-04-22T14:44:52.504Z"
+      }
+    ],
+    "BUPTN-3172/CT14": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:44:15.044Z",
+        "id": "moa5yhj8",
+        "text": "Será permitido visualização mobile.",
+        "updatedAt": "2026-04-22T14:44:15.044Z"
+      }
+    ],
+    "BUPTN-3177/CT15": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T21:19:55.975Z",
+        "id": "moak3c5j",
+        "text": "Não passível de teste, o carregamento não reflete nesse componente de upload.",
+        "updatedAt": "2026-04-22T21:19:55.975Z"
+      }
+    ],
+    "BUPTN-3177/CT29": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T21:11:23.383Z",
+        "id": "moajscmv",
+        "text": "Validação deverá ocorrer em futura melhoria relacionada ao tamanho máximo de upload de arquivos.",
+        "updatedAt": "2026-04-22T21:11:23.383Z"
+      }
+    ],
+    "BUPTN-3415/CT04": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:34:58.776Z",
+        "id": "moa5mkbc",
+        "text": "Tag será aplicada em melhoria futura.",
+        "updatedAt": "2026-04-22T14:34:58.776Z"
+      }
+    ],
+    "BUPTN-3415/CT12": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:41:16.812Z",
+        "id": "moa5uo0c",
+        "text": "Não representa uma validação relevante.",
+        "updatedAt": "2026-04-22T14:41:16.812Z"
+      }
+    ],
+    "BUPTN-3415/CT13": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:41:37.978Z",
+        "id": "moa5v4ca",
+        "text": "Não mapeado por negócio, pode ser tratado como melhoria futura",
+        "updatedAt": "2026-04-22T14:41:37.978Z"
+      }
+    ],
+    "BUPTN-3415/CT14": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:43:37.093Z",
+        "id": "moa5xo91",
+        "text": "Cenário pode ser tratado como melhoria pós entrega, pois foca em visualização mobile.",
+        "updatedAt": "2026-04-22T14:43:37.093Z"
+      }
+    ],
+    "BUPTN-3415/CT15": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T14:43:03.972Z",
+        "id": "moa5wyp0",
+        "text": "Não terá esse comportamento, é possível ter visualização mobile",
+        "updatedAt": "2026-04-22T14:43:03.972Z"
+      }
+    ],
+    "BUPTN-3812/CT07": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T19:44:17.854Z",
+        "id": "moagocla",
+        "text": "Atualmente não foi aplicado nessa história o caso em que o qr code é utilizado.",
+        "updatedAt": "2026-04-22T19:44:17.854Z"
+      }
+    ],
+    "BUPTN-3812/CT13": [
+      {
+        "createdAt": "2026-04-22T13:47:31.553Z",
+        "id": "moa3xjdt",
+        "text": "Ainda em desenvolvimento.",
+        "updatedAt": "2026-04-22T13:47:31.553Z"
+      }
+    ],
+    "BUPTN-3825/CT15": [
+      {
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T21:20:02.194Z",
+        "id": "moak3gya",
+        "text": "Não passível de teste, o carregamento não reflete nesse componente de upload.",
+        "updatedAt": "2026-04-22T21:20:02.194Z"
+      }
+    ],
+    "BUPTN-3825/CT24": [
+      {
+        "createdAt": "2026-04-22T14:02:34.701Z",
+        "id": "moa4gw99",
+        "text": "Em desenvolvimento",
+        "updatedAt": "2026-04-22T14:02:34.701Z"
+      }
+    ],
+    "BUPTN-4053/CT14": [
+      {
+        "createdAt": "2026-04-22T14:05:45.988Z",
+        "id": "moa4kzus",
+        "text": "Em desenvolvimento",
+        "updatedAt": "2026-04-22T14:05:45.988Z"
+      }
+    ],
+    "BUPTN-2720/CT10": [
+      {
+        "id": "moamfqi9",
+        "text": "Cenário será tratado em melhoria futura e será necessário mockar o retorno da API NFE-IO.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:25:33.681Z",
+        "updatedAt": "2026-04-22T22:25:33.681Z"
+      }
+    ],
+    "BUPTN-2720/CT11": [
+      {
+        "id": "moamfsx5",
+        "text": "Cenário será tratado em melhoria futura e será necessário mockar o retorno da API NFE-IO.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:25:36.809Z",
+        "updatedAt": "2026-04-22T22:25:36.809Z"
+      }
+    ],
+    "BUPTN-2720/CT12": [
+      {
+        "id": "moamfv60",
+        "text": "Cenário será tratado em melhoria futura e será necessário mockar o retorno da API NFE-IO.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:25:39.720Z",
+        "updatedAt": "2026-04-22T22:25:39.720Z"
+      }
+    ],
+    "BUPTN-2720/CT13": [
+      {
+        "id": "moamfx9a",
+        "text": "Cenário será tratado em melhoria futura e será necessário mockar o retorno da API NFE-IO.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:25:42.430Z",
+        "updatedAt": "2026-04-22T22:25:42.430Z"
+      }
+    ],
+    "BUPTN-2720/CT22": [
+      {
+        "id": "moamhaez",
+        "text": "Será possível testes em Mobile.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:26:46.138Z",
+        "updatedAt": "2026-04-22T22:26:46.138Z"
+      }
+    ],
+    "BUPTN-4562/CT07": [
+      {
+        "id": "moamjcc5",
+        "text": "Foi definido que os links não teriam prioridade em serem exibidos em relação ao layout em dispositivos mobile.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:28:21.941Z",
+        "updatedAt": "2026-04-22T22:28:21.941Z"
+      }
+    ],
+    "BUPTN-4562/CT04": [
+      {
+        "id": "moamjg9h",
+        "text": "Foi definido que os links não teriam prioridade em serem exibidos em relação ao layout em dispositivos mobile.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:28:27.029Z",
+        "updatedAt": "2026-04-22T22:28:27.029Z"
+      }
+    ],
+    "BUPTN-2919/CT07": [
+      {
+        "id": "moamk4oi",
+        "text": "Foi definido que o que for retornado da Receita Federal será considerado válido.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:28:58.674Z",
+        "updatedAt": "2026-04-22T22:28:58.674Z"
+      }
+    ],
+    "BUPTN-2919/CT12": [
+      {
+        "id": "moamkeyh",
+        "text": "Será possível testes em Mobile.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:29:11.993Z",
+        "updatedAt": "2026-04-22T22:29:11.993Z"
+      }
+    ],
+    "BUPTN-3177/CT17": [
+      {
+        "id": "moamn0k2",
+        "text": "Será tratado em futura melhoria, onde será possível ter o retorno das tags.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:31:13.298Z",
+        "updatedAt": "2026-04-22T22:31:34.908Z"
+      }
+    ],
+    "BUPTN-3177/CT18": [
+      {
+        "id": "moamnnd3",
+        "text": "Será tratado em futura melhoria, onde será possível ter o retorno das tags.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:31:42.855Z",
+        "updatedAt": "2026-04-22T22:31:42.855Z"
+      }
+    ],
+    "BUPTN-3177/CT20": [
+      {
+        "id": "moamo5g0",
+        "text": "Melhoria a ser realizada, seguindo cenários já mapeados no Figma em Cenários de Erro.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:32:06.288Z",
+        "updatedAt": "2026-04-22T22:32:06.288Z"
+      }
+    ],
+    "BUPTN-3177/CT21": [
+      {
+        "id": "moamo8c1",
+        "text": "Melhoria a ser realizada, seguindo cenários já mapeados no Figma em Cenários de Erro.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:32:10.033Z",
+        "updatedAt": "2026-04-22T22:32:10.033Z"
+      }
+    ],
+    "BUPTN-3177/CT22": [
+      {
+        "id": "moamoy2q",
+        "text": "Necessário abertura de melhoria referente à notificações.",
+        "author": "Vanessa",
+        "createdAt": "2026-04-22T22:32:43.394Z",
+        "updatedAt": "2026-04-22T22:32:43.394Z"
+      }
+    ]
+  }
+}

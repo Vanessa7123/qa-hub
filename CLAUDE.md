@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project overview
 
-QA Hub is a real-time dashboard built for Vanessa, a QA engineer at Ferreira Costa.
+QA Hub is a real-time dashboard built for Vanessa, a QA engineer.
 It connects to Jira Cloud and makes QA work visible to the whole team (developers, PO, Scrum Master, QA leader).
 
 **Jira instance:** ferreiracosta.atlassian.net
